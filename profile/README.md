@@ -1,4 +1,4 @@
-![OpenSparklink — Open tools for SparkLink development](https://raw.githubusercontent.com/OpenSparklink/.github/main/profile/assets/banner.svg)
+![OpenSparklink — Spark orange OS monogram](https://raw.githubusercontent.com/OpenSparklink/.github/main/profile/assets/banner.svg?v=brand-1.0.0)
 
 <p align="center">
   <a href="https://github.com/OpenSparklink/linux/tree/master/net/sparklink">Linux 内核</a> ·
@@ -35,3 +35,7 @@ Open tools, reproducible experiments, and shared resources for SparkLink develop
 
 - 使用问题与可复现的缺陷，请提交到对应项目的 Issues：[用户态工具](https://github.com/OpenSparklink/sparklink/issues) · [SDR 仿真](https://github.com/OpenSparklink/sparklink_sim/issues) · [标准资料](https://github.com/OpenSparklink/sparklink-national-standards-pdf/issues)。
 - 代码与文档修改通过对应仓库的 Pull Request 提交，并遵循该仓库的构建、测试和许可证说明。
+
+## 组织品牌
+
+OpenSparklink 采用 O/S 融合标识与星火橙配色。头像、透明标识、主页横幅及颜色配置统一收录于 **[品牌规范与设计档案](https://github.com/OpenSparklink/.github/tree/main/brand)**。

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "slug": "mint",
+    "name": "原版薄荷",
+    "background": "#0B1425",
+    "main": "#5EEAD4",
+    "accent": "#67B8FF"
+  },
+  {
+    "id": "02",
+    "slug": "glacier",
+    "name": "冰川蓝",
+    "background": "#0B1425",
+    "main": "#55B6FF",
+    "accent": "#A4F1E5"
+  },
+  {
+    "id": "03",
+    "slug": "emerald",
+    "name": "翡翠青",
+    "background": "#0A211E",
+    "main": "#29CDA8",
+    "accent": "#B3F4D9"
+  },
+  {
+    "id": "04",
+    "slug": "spark",
+    "name": "星火橙",
+    "background": "#1D1921",
+    "main": "#FF8B55",
+    "accent": "#FFD08A"
+  },
+  {
+    "id": "05",
+    "slug": "aurora",
+    "name": "极光紫",
+    "background": "#181628",
+    "main": "#B0A1FF",
+    "accent": "#7BE8EF"
+  },
+  {
+    "id": "06",
+    "slug": "cloud",
+    "name": "云白钴蓝",
+    "background": "#F3F6FC",
+    "main": "#2459D3",
+    "accent": "#58B8E9"
+  }
+]

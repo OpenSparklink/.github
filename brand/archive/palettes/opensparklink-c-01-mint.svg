@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1254 1254" role="img" aria-labelledby="title description">
+  <title id="title">OpenSparklink C / 原版薄荷</title>
+  <desc id="description">Editable four-path OS monogram. Square avatar.</desc>
+  <rect id="background" width="1254" height="1254" fill="#0B1425" />
+  <g id="os-monogram" stroke="none">
+    <path id="lower-main-ribbon" fill="#5EEAD4" d="       M 215,685       C 233,891 396,1064 627,1064       C 809,1064 968,960 1017,804       C 1042,727 1037,682 982,641       C 942,611 878,594 818,593       C 859,631 884,680 882,731       C 878,843 754,941 594,943       C 517,944 451,921 393,886       C 315,844 254,772 215,685 Z" />
+    <path id="upper-main-ribbon" fill="#5EEAD4" d="       M 1045,582       C 1021,348 848,195 627,195       C 439,195 277,327 226,460       C 191,550 210,611 268,654       C 326,696 409,715 515,729       C 574,737 614,757 624,786       C 641,841 609,889 550,910       C 664,897 747,842 745,773       C 743,703 679,675 560,652       C 445,630 386,589 386,518       C 385,420 523,337 669,336       C 837,331 989,419 1045,582 Z" />
+    <path id="upper-accent-fold" fill="#67B8FF" d="       M 1045,582       C 1030,514 986,454 935,418       C 885,384 817,367 747,369       C 654,368 575,408 575,462       C 575,509 621,514 673,513       C 818,509 951,502 1045,582 Z" />
+    <path id="lower-accent-fold" fill="#67B8FF" d="       M 215,685       C 289,758 445,811 624,786       C 641,841 609,889 550,910       C 495,918 441,909 393,886       C 315,846 254,774 215,685 Z" />
+  </g>
+</svg>

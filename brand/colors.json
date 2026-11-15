@@ -1,0 +1,23 @@
+{
+  "name": "OpenSparklink",
+  "version": "1.0.0",
+  "status": "adopted",
+  "adopted_on": "2026-11-16",
+  "design": {
+    "symbol": "C — OS monogram",
+    "palette": "04 — Spark orange",
+    "source": "assets/logo.svg"
+  },
+  "colors": {
+    "primary": {"name": "星火橙", "hex": "#FF8B55", "rgb": [255, 139, 85]},
+    "accent": {"name": "暖金", "hex": "#FFD08A", "rgb": [255, 208, 138]},
+    "background": {"name": "墨紫", "hex": "#1D1921", "rgb": [29, 25, 33]},
+    "foreground": {"name": "暖白", "hex": "#FFF7F2", "rgb": [255, 247, 242]}
+  },
+  "assets": {
+    "logo": "assets/logo.svg",
+    "mark": "assets/mark.svg",
+    "avatar": "assets/avatar.png",
+    "banner": "assets/banner.svg"
+  }
+}

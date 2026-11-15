@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+  <title id="title">OpenSparklink — Spark orange</title>
+  <desc id="desc">Open tools for SparkLink development. Kernel, userspace, SDR and standards. OpenSparklink OS monogram in Spark orange and warm gold.</desc>
+  <rect width="1280" height="280" rx="20" fill="#1D1921"/>
+  <g fill="none" stroke="#FFD08A" stroke-opacity=".07">
+    <circle cx="1057" cy="140" r="122"/>
+    <circle cx="1057" cy="140" r="160"/>
+    <circle cx="1057" cy="140" r="198"/>
+    <path d="M840 140h410"/>
+  </g>
+  <text x="64" y="65" fill="#FFD08A" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">OPEN TOOLS FOR SPARKLINK</text>
+  <text x="60" y="153" fill="#FFF7F2" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-2">OpenSparklink</text>
+  <text x="64" y="211" fill="#FFF7F2" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1.7">KERNEL / USERSPACE / SDR / STANDARDS</text>
+  <rect x="64" y="238" width="84" height="4" rx="2" fill="#FF8B55"/>
+  <g id="brand-mark" transform="translate(917 -2) scale(.224)">
+    <path fill="#FF8B55" d="M215 685 C233 891 396 1064 627 1064 C809 1064 968 960 1017 804 C1042 727 1037 682 982 641 C942 611 878 594 818 593 C859 631 884 680 882 731 C878 843 754 941 594 943 C517 944 451 921 393 886 C315 844 254 772 215 685Z"/>
+    <path fill="#FF8B55" d="M1045 582 C1021 348 848 195 627 195 C439 195 277 327 226 460 C191 550 210 611 268 654 C326 696 409 715 515 729 C574 737 614 757 624 786 C641 841 609 889 550 910 C664 897 747 842 745 773 C743 703 679 675 560 652 C445 630 386 589 386 518 C385 420 523 337 669 336 C837 331 989 419 1045 582Z"/>
+    <path fill="#FFD08A" d="M1045 582 C1030 514 986 454 935 418 C885 384 817 367 747 369 C654 368 575 408 575 462 C575 509 621 514 673 513 C818 509 951 502 1045 582Z"/>
+    <path fill="#FFD08A" d="M215 685 C289 758 445 811 624 786 C641 841 609 889 550 910 C495 918 441 909 393 886 C315 846 254 774 215 685Z"/>
+  </g>
+</svg>
