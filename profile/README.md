@@ -1,4 +1,4 @@
-![OpenSparklink — Spark orange OS monogram](https://raw.githubusercontent.com/OpenSparklink/.github/main/profile/assets/banner.svg?v=brand-1.0.0)
+![OpenSparklink — Spark orange OS monogram](https://raw.githubusercontent.com/OpenSparklink/.github/a71c4560bcb894ee397588f3b2f095f228f2a03f/brand/assets/banner.svg)
 
 <p align="center">
   <a href="https://github.com/OpenSparklink/linux/tree/master/net/sparklink">Linux 内核</a> ·
